@@ -1,0 +1,250 @@
+::Câu 1::Điều nào sau đây là thủ đô của Việt Nam? {
+   =Hà Nội
+   ~Hồ Chí Minh City
+   ~Đà Nẵng
+   ~Cần Thơ
+}
+
+::Câu 2::Cây xanh có vai trò quan trọng trong việc sản xuất oxy. {TRUE}
+
+::Câu 3::Thủ đô của Pháp là _____? {=Paris}
+
+::Câu 4::Chọn các quốc gia thuộc Châu Á: {
+   =Nhật Bản
+   =Trung Quốc
+   ~Pháp
+   ~Mỹ
+}
+
+::Câu 5::Chọn các biển lớn trên thế giới: {
+   =Biển Thái Bình Dương
+   =Biển Đại Tây Dương
+   ~Biển Caspi
+   ~Biển Ác-xê
+}
+
+::Câu 6::Số Pi gần đúng là 3.14, nó là một _____? {=hằng số}
+
+::Câu 7::Người sáng lập Microsoft là ai? {
+   =Bill Gates
+   ~Steve Jobs
+   ~Mark Zuckerberg
+   ~Elon Musk
+}
+
+::Câu 8::Công thức hóa học của nước là? {
+   =H2O
+   ~CO2
+   ~O2
+   ~N2
+}
+
+::Câu 9::Chó là động vật có vú. {TRUE}
+
+::Câu 10::Những loại cây nào có thể tạo ra oxy? {
+   =Cây thông
+   =Cây dương xỉ
+   ~Cây xương rồng
+   ~Cây lúa mì
+}
+
+::Câu 11::Sự phát triển của khoa học công nghệ giúp cải thiện _____ sống. {=chất lượng}
+
+::Câu 12::Mặt trăng quay quanh hành tinh nào? {
+   =Trái Đất
+   ~Mặt Trời
+   ~Hỏa Tinh
+   ~Mộc Tinh
+}
+
+::Câu 13::Ngày Quốc tế Lao động được tổ chức vào ngày _____ tháng 5. {=1}
+
+::Câu 14::Chọn các câu trả lời đúng về loài chó: {
+   =Chó là loài động vật có vú
+   =Chó là bạn của con người
+   ~Chó là loài bò sát
+   ~Chó không có khả năng nghe tốt
+}
+
+::Câu 15::Thủ đô của Nhật Bản là _____? {=Tokyo}
+
+::Câu 16::Câu nào sau đây đúng về Việt Nam? {
+   =Việt Nam có biển Đông
+   ~Việt Nam không có biên giới
+   ~Việt Nam là một quốc gia không có đồng tiền riêng
+   ~Việt Nam không có đồi núi
+}
+
+::Câu 17::Hệ Mặt Trời có bao nhiêu hành tinh? {=8}
+
+::Câu 18::Loại hình năng lượng nào không tái tạo được? {
+   ~Năng lượng gió
+   ~Năng lượng mặt trời
+   =Năng lượng hóa thạch
+}
+
+::Câu 19::Động vật nào sau đây là động vật ăn thịt? {
+   =Sư tử
+   ~Cừu
+   ~Ngựa
+   ~Hươu
+}
+
+::Câu 20::Chọn các đại dương trên thế giới: {
+   =Đại Tây Dương
+   =Thái Bình Dương
+   ~Đại Vũ Trụ
+   ~Đại Đông Dương
+}
+
+::Câu 21::Tên đầy đủ của Mỹ là _____? {=Hoa Kỳ}
+
+::Câu 22::Quốc gia nào nổi tiếng với món sushi? {
+   =Nhật Bản
+   ~Hàn Quốc
+   ~Trung Quốc
+   ~Việt Nam
+}
+
+::Câu 23::Động vật nào sau đây có thể bay? {
+   =Chim
+   =Dơi
+   ~Chó
+   ~Mèo
+}
+
+::Câu 24::Loại chất nào có thể thay đổi trạng thái từ rắn sang lỏng? {
+   =Nước
+   ~Đá
+   ~Cát
+   ~Không khí
+}
+
+::Câu 25::Thế giới hiện nay có bao nhiêu châu lục? {=7}
+
+::Câu 26::Chúng ta sử dụng _____ để di chuyển trên mặt nước. {=thuyền}
+
+::Câu 27::Ngày Tết Nguyên Đán của Việt Nam thường rơi vào tháng _____? {=1}
+
+::Câu 28::Các loài động vật ăn cỏ được gọi là _____? {=động vật ăn cỏ}
+
+::Câu 29::Công trình nổi tiếng nào ở Pháp? {
+   =Tháp Eiffel
+   ~Đấu trường Colosseum
+   ~Tượng Nữ thần Tự do
+   ~Tòa nhà Empire State
+}
+
+::Câu 30::Sự kiện nào dẫn đến sự kiện ngày 4 tháng 7 ở Mỹ? {
+   =Ngày độc lập của Mỹ
+   ~Ngày Tết của Mỹ
+   ~Ngày sinh nhật của Tổng thống
+}
+
+::Câu 31::Ngày Quốc khánh của Việt Nam là ngày _____ tháng 9. {=2}
+
+::Câu 32::Thế giới có bao nhiêu lục địa lớn? {=6}
+
+::Câu 33::Món ăn nào đặc trưng của Ý? {
+   =Pizza
+   ~Sushi
+   ~Phở
+   ~Mì Spaghetti
+}
+
+::Câu 34::Hành tinh nào có khả năng có nước lỏng? {
+   =Sao Hỏa
+   ~Sao Mộc
+   ~Sao Kim
+   ~Sao Thổ
+}
+
+::Câu 35::Câu nào sau đây là đúng về nước? {
+   =Nước có thể ở dạng rắn, lỏng và khí
+   ~Nước không thể ở trạng thái khí
+   ~Nước không thể thay đổi trạng thái
+}
+
+::Câu 36::Vùng khí hậu nào là nơi sinh sống của gấu Bắc Cực? {
+   =Vùng cực Bắc
+   ~Vùng nhiệt đới
+   ~Vùng ôn đới
+}
+
+::Câu 37::Quốc gia nào có diện tích lớn nhất thế giới? {
+   =Nga
+   ~Canada
+   ~Hoa Kỳ
+   ~Trung Quốc
+}
+
+::Câu 38::Công thức hóa học của CO2 là? {
+   =C2O
+   ~C3O
+   ~CO3
+}
+
+::Câu 39::Số lượng lục địa trong hệ Mặt Trời là bao nhiêu? {
+   =7
+}
+
+::Câu 40::Câu nào sau đây đúng về các loài động vật? {
+   =Một số loài động vật sống dưới nước
+   ~Tất cả các loài động vật sống trên cạn
+}
+
+::Câu 41::Tên một số đại dương trong hệ Mặt Trời: {
+   =Biển Thái Bình Dương
+   =Biển Đại Tây Dương
+   ~Biển Nam Cực
+}
+
+::Câu 42::Ngày hội thi Olympic bắt đầu từ quốc gia nào? {
+   =Hy Lạp
+   ~Pháp
+   ~Anh
+}
+
+::Câu 43::Công ty nào phát triển hệ điều hành Windows? {
+   =Microsoft
+   ~Apple
+   ~Google
+   ~Sony
+}
+
+::Câu 44::Loại vật liệu nào có thể tái chế? {
+   =Nhựa
+   ~Kim loại
+   ~Cát
+}
+
+::Câu 45::Động vật nào dưới đây không phải là loài thú? {
+   =Cá
+   ~Mèo
+   ~Chó
+}
+
+::Câu 46::Câu nào sau đây đúng về nước biển? {
+   =Nước biển chứa muối
+   ~Nước biển ngọt
+}
+
+::Câu 47::Giải thưởng Nobel được trao hàng năm cho những thành tựu nào? {
+   =Khoa học, văn học, hòa bình
+   ~Thể thao
+}
+
+::Câu 48::Từ nào sau đây là động từ? {
+   =Chạy
+   ~Bánh
+}
+
+::Câu 49::Số lượng lục địa trên Trái Đất là? {
+   =7
+}
+
+::Câu 50::Thành phố nào là thủ đô của Nhật Bản? {
+   =Tokyo
+   ~Osaka
+   ~Hiroshima
+}
